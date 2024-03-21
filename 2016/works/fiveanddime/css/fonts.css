@@ -1,0 +1,22 @@
+
+@font-face {
+  font-family: 'chap';
+  src: url('fonts/chap.eot');
+  src: url('fonts/chap.eot?#iefix') format('embedded-opentype'),
+       url('fonts/chap.woff') format('woff'),
+       url('fonts/chap.ttf') format('truetype'),
+       url('fonts/chap.svg#chap') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'mus';
+  src: url('fonts/mus.eot');
+  src: url('fonts/mus.eot?#iefix') format('embedded-opentype'),
+       url('fonts/mus.woff') format('woff'),
+       url('fonts/mus.ttf') format('truetype'),
+       url('fonts/mus.svg#mus') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
