@@ -68,7 +68,13 @@ var data_work = [
   },
 
   {
-    title: null,
+    title: "Distance of Parallels",
+    description: "𝘋𝘪𝘴𝘵𝘢𝘯𝘤𝘦 𝘰𝘧 𝘗𝘢𝘳𝘢𝘭𝘭𝘦𝘭𝘴 is a video work created in collaboration with Alex Heeyeon Kil, exhibited as part of Typojanchi 2023 International Typography Biennale, 《Open Quotation Marks, Close Quotation Marks》.<br><br>This piece reinterprets The Street of Sun (1952), one of the rare films produced during the Korean War. At a time when the conflict had reached a stalemate at the 38th parallel, theater-going emerged as a popular form of entertainment, offering an escape for those seeking a semblance of normalcy. The film reflects how life persists even amidst the devastations of war—refugees, despite having lost everything, sought solace in small joys within unfamiliar cities.<br><br>Building on this narrative, 𝘋𝘪𝘴𝘵𝘢𝘯𝘤𝘦 𝘰𝘧 𝘗𝘢𝘳𝘢𝘭𝘭𝘦𝘭𝘴 delves into the resilience of everyday life against the backdrop of war's brutality. The work begins by deconstructing the frames of the original film into a 3D space. These frames are layered with newspaper advertisements and film posters of the era, which offer glimpses into the wartime quotidian, blurring the boundary between cinema and reality. Further, the work disrupts temporal linearity by overlapping clips from the film in non-chronological order. These clips, rotating without fixed sequence, underscore the fluidity of time, suggesting that both past and future ebb and flow within the present.<br><br>Single-channel video, black and white, silent, 1 min. 57 sec.<br></br>Image credits : ⓒglimworkers, courtesy of Typojanchi 2023",
+    url: null,
+    cat: ["ex", "in"],
+    path: "typo23",
+    media: ["0.jpg"],
+    vimeo: null,
   },
 
   {
