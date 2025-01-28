@@ -146,7 +146,7 @@ var data_work = [
   {
     title: "UNI_VERSE",
     description: "Studio website design and developmentfor Amsterdam-based 3D, animation, VFX and post-production maestros, UNI_VERSE.<br><br>The website showcases the studio's extensive range of capabilities and vision while also providing a platform to show their experimentations and explorations of their craft.",
-    url: "https://universestudio.xyz/",
+    url: "https://2022--uni-verse.netlify.app/",
     cat: ["w", "pf", "d", "dv"],
     path: null,
     media: ["0.mp4"],
